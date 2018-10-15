@@ -1,3 +1,5 @@
 To change the image penguin.ppm to any desired image, just put that image in this folder and change the filename in mainfile.c. It is essential for the image to be in .ppm format because this C program which is written here is explicitly written for .ppm files because .ppm image files are just simple bitmap images instead of compressed file formats like .jpg which require further image processing.
 
 The main function is written in mainfile.c and DES related functions are in myDES.c.    
+
+Part of the course, Cryptography & Network Security(MA61027) at IIT-KGP.
